@@ -1,2 +1,3 @@
 # BalancedParallelSearch
  
+Semaphore implementation autonomously
