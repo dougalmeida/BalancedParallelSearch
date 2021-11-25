@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BalancedParallel", "BalancedParallel\BalancedParallel.csproj", "{C7660849-69D7-44A8-A030-F7036423A26E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7660849-69D7-44A8-A030-F7036423A26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7660849-69D7-44A8-A030-F7036423A26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7660849-69D7-44A8-A030-F7036423A26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7660849-69D7-44A8-A030-F7036423A26E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92785DD7-6E8D-4524-9956-14E5ECB2E302}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://douglasdasilvaalmeida.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BalancedParallel\\BalancedParallel.csproj
+		SccProjectName1 = BalancedParallel
+		SccLocalPath1 = BalancedParallel
+	EndGlobalSection
+EndGlobal
